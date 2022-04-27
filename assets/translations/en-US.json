@@ -1,0 +1,10 @@
+{
+  "splash": "Splash Screen",
+  "login": "Login Screen",
+  "loading": "Loading....",
+  "retry_again": "Retry again",
+  "error_occurred": "An Error Occurred",
+  "ok": "Ok",
+  "success": "success",
+  "error": "Error"
+}
